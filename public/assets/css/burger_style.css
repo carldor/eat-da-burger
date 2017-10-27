@@ -1,0 +1,16 @@
+li {
+  padding: 5px;
+  margin: 5px;
+  border-width: 2px;
+  /*width: 200px;*/
+}
+
+.left{
+ padding: 5px;
+ margin: 5px;
+ background: #faebd7;
+}
+
+h1 {
+    color: blue;
+}
